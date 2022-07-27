@@ -4,7 +4,7 @@ Just look at the [path-handler.test.ts](https://github.com/shovon/path-handler/b
 
 ## Installing
 
-Copy+paste the [path-handler.ts](https://github.com/shovon/path-handlerh/blob/master/path-handler.ts) into your projects.
+Copy+paste the [path-handler.ts](https://github.com/shovon/path-handler/blob/master/path-handler.ts) into your projects.
 
 ## License
 
